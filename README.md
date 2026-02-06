@@ -1,21 +1,6 @@
 # ToroCrop 🌾
 
-**ToroCrop** là một plugin Minecraft giúp tự động trồng lại cây trồng (lúa, cà rốt, khoai tây...) trong các vùng được chỉ định. Plugin này giúp việc quản lý nông trại trở nên dễ dàng hơn cho cả Admin và người chơi.
-
-## ✨ Tính năng
-
-- **Tự động trồng lại:** Cây trồng (khi đã chín) sẽ được tự động trồng lại ngay sau khi thu hoạch.
-- **Hệ thống vùng (Region):** Chỉ hoạt động trong các vùng được Admin tạo ra, không ảnh hưởng đến thế giới bên ngoài.
-- **Vật phẩm rơi ra:** Lúa/củ và hạt giống dư thừa sẽ rơi ra đất như bình thường.
-- **Chống dẫm nát (Anti-Trample):** Ngăn chặn người chơi làm hỏng đất ruộng (Farmland) khi nhảy lên trong vùng.
-- **Bảo vệ cây non:** Ngăn chặn người chơi vô tình đập vỡ cây chưa chín (có thể cấu hình).
-- **Hỗ trợ Folia:** Hoạt động tốt trên server chạy Folia và các fork của Paper.
-
-## 📥 Cài đặt
-
-1. Tải file `ToroCrop.jar`.
-2. Chép vào thư mục `plugins` của server.
-3. Khởi động lại server.
+**ToroCrop** tự trồng lại hạt giống , yêu cầu của chế ngân
 
 ## 🎮 Hướng dẫn sử dụng
 
